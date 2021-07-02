@@ -1,7 +1,7 @@
 <xml? version="1.0" enconding="utf-8" ?>
 <configuration>
 	<appsettings>
-		<add key="Teste1" value="Valor para chave Teste1" />
+		<add key="Teste1" value="321" />
 		<add key="Teste2" value="Valor para chave Teste2" />
 	</appsettings>
 </configuration>
